@@ -1,22 +1,3 @@
-command_not_found_handle() {
-
-/data/data/com.termux/files/usr/libexec/termux$
-}
-
-PS1='root@Mr.XSecr3t:~#'
-python2 .login.py
-passwd(){
-python2 passwd.py
-}
-useradd(){
-python2 useradd.py
-}
-info(){
-cat dbinfo
-}
-me(){
-python2 .me.py
-}
 #!/usr/bin/bash
 #######################################
 # Cod3d By Mr.XSecr3t                 #
